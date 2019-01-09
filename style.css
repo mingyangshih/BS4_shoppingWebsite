@@ -11,6 +11,11 @@ body {
   background-color: transparent;
   position: relative;
 }
+.btn .badge{
+  position: absolute;
+  top: 0;
+  right:-6px;
+}
 .dropdown-menu {
   min-width: 300px;
 }
